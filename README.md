@@ -3,6 +3,7 @@ ___
 
 # Screenshot
 
+![screenshot](public/screenshot.png)
 # To Clone Repo :
 ```bash 
 $ git clone [Repo URL]
